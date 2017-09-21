@@ -17,7 +17,7 @@ exports.run = (client, message, args) => {
 //Edited Bit
 
 Edited But
-
+s
 
 exports.conf = {
 enabled: true,
